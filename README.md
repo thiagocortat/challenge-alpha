@@ -211,6 +211,8 @@ O documento contem um nó chamado `results` o qual tem os hotéis do Rio de Jane
 - Exibir os itens de `Hotels` numa UITableView ou UICollectionView (como no iOS, por exemplo). Cada célula vai representar um ítem de `Hotels`e deve mostrar seu nome, preço, cidade, estado, uma foto  e três amenidades.
 - Agrupar as células (usando um título para separá-las) pela quantidade de estrelas. Caso não exista estrelas, agrupe em *Pacotes*.
   - Deve estar ordena descrentemente pela quantidade de estrelas.
+- Deve haver uma View ou componente de busca para inserir outra localizadade e fazer uma nova conexão à API.
+- Ao selecionar um dos itens da lista, uma nova tela deve ser aberta exibindo mais detalhes sobre o Hotel/Pacote selecionado.
 - Ter testes para o código criado
 
 
